@@ -11,7 +11,6 @@
   inputs.src-native_dialogs-master.ref   = "refs/heads/master";
   inputs.src-native_dialogs-master.owner = "SSPkrolik";
   inputs.src-native_dialogs-master.repo  = "nim-native-dialogs";
-  inputs.src-native_dialogs-master.dir   = "";
   inputs.src-native_dialogs-master.type  = "github";
   
   inputs."oldwinapi".owner = "nim-nix-pkgs";
