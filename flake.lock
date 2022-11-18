@@ -245,11 +245,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668750341,
-        "narHash": "sha256-+Ra+iukjFFlONVrRqLIrLVtC+PpSOdfgq+peSWGOf3c=",
+        "lastModified": 1668755908,
+        "narHash": "sha256-20WKru7RfOoePnOEPGR2wtp2uZwB0GvetYEC7pgLrPg=",
         "owner": "nim-nix-pkgs",
         "repo": "native_dialogs",
-        "rev": "7c5a3359596df379874067b9bb255e526d61c158",
+        "rev": "71d45537efc7a5e01cf402338ebd4e361e43a21f",
         "type": "github"
       },
       "original": {
